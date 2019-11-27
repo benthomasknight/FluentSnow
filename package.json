@@ -1,0 +1,22 @@
+{
+  "name": "snowfluent",
+  "version": "1.0.0",
+  "description": "Pointless fluent api for ServiceNow encoded queries",
+  "main": "start.js",
+  "dependencies": {
+    "tsconfig-paths": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.5",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benthomasknight",
+  "license": "ISC"
+}
